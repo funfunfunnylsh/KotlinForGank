@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="prb_symbolic_tick_default_text_size">15sp</dimen>
+    <dimen name="prb_drawable_tick_default_spacing">1dp</dimen>
+
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_15sp">15sp</dimen>
+    <dimen name="text_size_11sp">11sp</dimen>
+    <dimen name="text_size_12sp">12sp</dimen>
+    <dimen name="text_size_14sp">14sp</dimen>
+
+
+</resources>
